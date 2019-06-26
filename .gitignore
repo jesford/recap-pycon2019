@@ -1,0 +1,5 @@
+*.html
+__pycache__
+.hypothesis/
+.ipynb_checkpoints/
+die_hard_example.py
